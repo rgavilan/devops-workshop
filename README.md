@@ -5,7 +5,7 @@ This is a repository for the DevOps Workshop. It contains a simple Node.js appli
 ## Prerequisites
 
 - [Git](https://git-scm.com/)
-- [Node.js version 20](https://nodejs.org/)
+- [Node.js version 24](https://nodejs.org/)
 
 ## Installation
 
