@@ -1,6 +1,6 @@
 {
   "name": "devops-workshop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "DevOps Workshop - Node.js API",
   "main": "index.js",
   "scripts": {
