@@ -1,0 +1,18 @@
+# 🚀 Pull Request: [Título descriptivo aquí]
+
+## 📌 Descripción
+Describe brevemente los cambios que estás introduciendo. ¿Qué problema resuelve este PR?
+
+> Ejemplo: Este PR agrega un script de inicialización para preparar el entorno local.
+
+## ✅ Cambios realizados
+- [ ] Nuevo script `setup.sh` en `/scripts`
+- [ ] Actualización del archivo `README.md` con instrucciones
+- [ ] Se agregó soporte para variables de entorno
+
+## 🔍 ¿Cómo probarlo?
+Pasos para reproducir y validar que los cambios funcionan como se espera:
+
+1. Clona el repositorio
+2. Ejecuta `bash scripts/setup.sh`
+3. Verifica que los mensajes se muestren correctamente
